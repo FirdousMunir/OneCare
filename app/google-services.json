@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184923170020",
+    "project_id": "onecare-crisis-network",
+    "storage_bucket": "onecare-crisis-network.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184923170020:android:fd171ce41a1ca71fb278f1",
+        "android_client_info": {
+          "package_name": "com.health.onecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184923170020-372tursl94umr1fn9m6n44n40l5jfkjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuLBQ3n_zp7JZvoW669hoovAPraLPt15U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184923170020-372tursl94umr1fn9m6n44n40l5jfkjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

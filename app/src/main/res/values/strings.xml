@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OneCare Crisis Network</string>
+    <string name="title_activity_choice_tabbed">ChoiceTabbedActivity</string>
+    <string name="tab_text_1">Dial</string>
+    <string name="tab_text_2">Call Logs</string>
+
+</resources>
